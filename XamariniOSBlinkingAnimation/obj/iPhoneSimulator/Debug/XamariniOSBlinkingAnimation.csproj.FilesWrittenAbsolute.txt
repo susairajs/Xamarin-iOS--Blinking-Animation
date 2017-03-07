@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSBlinkingAnimation/XamariniOSBlinkingAnimation/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSBlinkingAnimation/XamariniOSBlinkingAnimation/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSBlinkingAnimation/XamariniOSBlinkingAnimation/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSBlinkingAnimation/XamariniOSBlinkingAnimation/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSBlinkingAnimation/XamariniOSBlinkingAnimation/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSBlinkingAnimation/XamariniOSBlinkingAnimation/bin/iPhoneSimulator/Debug/XamariniOSBlinkingAnimation.exe.mdb
+/Users/DELPIN/Projects/XamariniOSBlinkingAnimation/XamariniOSBlinkingAnimation/bin/iPhoneSimulator/Debug/XamariniOSBlinkingAnimation.exe
+/Users/DELPIN/Projects/XamariniOSBlinkingAnimation/XamariniOSBlinkingAnimation/obj/iPhoneSimulator/Debug/XamariniOSBlinkingAnimation.exe
+/Users/DELPIN/Projects/XamariniOSBlinkingAnimation/XamariniOSBlinkingAnimation/obj/iPhoneSimulator/Debug/XamariniOSBlinkingAnimation.exe.mdb
